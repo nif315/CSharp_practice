@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\bin\Debug\Square every digit of a number.exe.config
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\bin\Debug\Square every digit of a number.exe
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\bin\Debug\Square every digit of a number.pdb
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\obj\Debug\Square every digit of a number.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\obj\Debug\Square every digit of a number.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\obj\Debug\Square every digit of a number.exe
+C:\Users\Владимир\source\repos\Square every digit of a number\Square every digit of a number\obj\Debug\Square every digit of a number.pdb
