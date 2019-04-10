@@ -1,0 +1,10 @@
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\bin\Debug\Генерация GUID.exe.config
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\bin\Debug\Генерация GUID.exe
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\bin\Debug\Генерация GUID.pdb
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация GUID.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация_GUID.Form1.resources
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация_GUID.Properties.Resources.resources
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация GUID.csproj.GenerateResource.cache
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация GUID.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация GUID.exe
+C:\Users\Владимир\source\repos\Генерация GUID\Генерация GUID\obj\Debug\Генерация GUID.pdb
