@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\bin\Debug\Growth of a Population.exe.config
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\bin\Debug\Growth of a Population.exe
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\bin\Debug\Growth of a Population.pdb
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\obj\Debug\Growth of a Population.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\obj\Debug\Growth of a Population.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\obj\Debug\Growth of a Population.exe
+C:\Users\Владимир\source\repos\Growth of a Population\Growth of a Population\obj\Debug\Growth of a Population.pdb
