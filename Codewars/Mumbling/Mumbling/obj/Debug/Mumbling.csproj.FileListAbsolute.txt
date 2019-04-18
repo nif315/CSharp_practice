@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\bin\Debug\Mumbling.exe.config
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\bin\Debug\Mumbling.exe
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\bin\Debug\Mumbling.pdb
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\obj\Debug\Mumbling.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\obj\Debug\Mumbling.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\obj\Debug\Mumbling.exe
+C:\Users\Владимир\source\repos\Mumbling\Mumbling\obj\Debug\Mumbling.pdb
