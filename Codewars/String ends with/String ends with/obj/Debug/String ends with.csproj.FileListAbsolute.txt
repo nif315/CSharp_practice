@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\String ends with\String ends with\bin\Debug\String ends with.exe.config
+C:\Users\Владимир\source\repos\String ends with\String ends with\bin\Debug\String ends with.exe
+C:\Users\Владимир\source\repos\String ends with\String ends with\bin\Debug\String ends with.pdb
+C:\Users\Владимир\source\repos\String ends with\String ends with\obj\Debug\String ends with.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\String ends with\String ends with\obj\Debug\String ends with.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\String ends with\String ends with\obj\Debug\String ends with.exe
+C:\Users\Владимир\source\repos\String ends with\String ends with\obj\Debug\String ends with.pdb
