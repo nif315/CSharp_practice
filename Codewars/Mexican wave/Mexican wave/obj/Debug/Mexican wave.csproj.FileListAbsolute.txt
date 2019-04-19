@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\bin\Debug\Mexican wave.exe.config
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\bin\Debug\Mexican wave.exe
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\bin\Debug\Mexican wave.pdb
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\obj\Debug\Mexican wave.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\obj\Debug\Mexican wave.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\obj\Debug\Mexican wave.exe
+C:\Users\Владимир\source\repos\Mexican wave\Mexican wave\obj\Debug\Mexican wave.pdb
