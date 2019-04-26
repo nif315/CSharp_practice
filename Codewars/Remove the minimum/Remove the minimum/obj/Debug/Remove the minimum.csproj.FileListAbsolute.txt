@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\bin\Debug\Remove the minimum.exe.config
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\bin\Debug\Remove the minimum.exe
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\bin\Debug\Remove the minimum.pdb
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\obj\Debug\Remove the minimum.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\obj\Debug\Remove the minimum.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\obj\Debug\Remove the minimum.exe
+C:\Users\Владимир\source\repos\Remove the minimum\Remove the minimum\obj\Debug\Remove the minimum.pdb
