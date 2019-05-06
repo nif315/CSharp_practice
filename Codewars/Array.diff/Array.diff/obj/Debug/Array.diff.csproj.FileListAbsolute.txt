@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\bin\Debug\Array.diff.exe.config
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\bin\Debug\Array.diff.exe
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\bin\Debug\Array.diff.pdb
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\obj\Debug\Array.diff.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\obj\Debug\Array.diff.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\obj\Debug\Array.diff.exe
+C:\Users\Владимир\source\repos\Array.diff\Array.diff\obj\Debug\Array.diff.pdb
