@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\bin\Debug\Folding your way to the moon.exe.config
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\bin\Debug\Folding your way to the moon.exe
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\bin\Debug\Folding your way to the moon.pdb
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.exe
+C:\Users\Владимир\source\repos\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.pdb
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\bin\Debug\Folding your way to the moon.exe.config
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\bin\Debug\Folding your way to the moon.exe
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\bin\Debug\Folding your way to the moon.pdb
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.csprojAssemblyReference.cache
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.exe
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Folding your way to the moon\Folding your way to the moon\obj\Debug\Folding your way to the moon.pdb
