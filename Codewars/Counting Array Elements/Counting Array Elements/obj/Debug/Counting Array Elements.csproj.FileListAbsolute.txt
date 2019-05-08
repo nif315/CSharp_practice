@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\bin\Debug\Counting Array Elements.exe.config
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\bin\Debug\Counting Array Elements.exe
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\bin\Debug\Counting Array Elements.pdb
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\obj\Debug\Counting Array Elements.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\obj\Debug\Counting Array Elements.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\obj\Debug\Counting Array Elements.exe
+C:\Users\Владимир\source\repos\Counting Array Elements\Counting Array Elements\obj\Debug\Counting Array Elements.pdb
