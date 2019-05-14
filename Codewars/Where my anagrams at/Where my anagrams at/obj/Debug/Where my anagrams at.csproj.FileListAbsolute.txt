@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\bin\Debug\Where my anagrams at.exe.config
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\bin\Debug\Where my anagrams at.exe
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\bin\Debug\Where my anagrams at.pdb
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\obj\Debug\Where my anagrams at.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\obj\Debug\Where my anagrams at.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\obj\Debug\Where my anagrams at.exe
+C:\Users\Владимир\source\repos\Where my anagrams at\Where my anagrams at\obj\Debug\Where my anagrams at.pdb
