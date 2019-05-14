@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\bin\Debug\Not very secure.exe.config
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\bin\Debug\Not very secure.exe
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\bin\Debug\Not very secure.pdb
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\obj\Debug\Not very secure.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\obj\Debug\Not very secure.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\obj\Debug\Not very secure.exe
+C:\Users\Владимир\source\repos\Not very secure\Not very secure\obj\Debug\Not very secure.pdb
