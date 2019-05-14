@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\bin\Debug\Count characters in your string.exe.config
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\bin\Debug\Count characters in your string.exe
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\bin\Debug\Count characters in your string.pdb
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\obj\Debug\Count characters in your string.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\obj\Debug\Count characters in your string.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\obj\Debug\Count characters in your string.exe
+C:\Users\Владимир\source\repos\Count characters in your string\Count characters in your string\obj\Debug\Count characters in your string.pdb
