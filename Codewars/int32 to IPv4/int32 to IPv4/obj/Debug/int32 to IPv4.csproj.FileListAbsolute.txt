@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\bin\Debug\int32 to IPv4.exe.config
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\bin\Debug\int32 to IPv4.exe
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\bin\Debug\int32 to IPv4.pdb
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.exe
+C:\Users\Владимир\source\repos\int32 to IPv4\int32 to IPv4\obj\Debug\int32 to IPv4.pdb
