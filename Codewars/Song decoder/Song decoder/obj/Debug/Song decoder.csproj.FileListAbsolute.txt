@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\bin\Debug\Song decoder.exe.config
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\bin\Debug\Song decoder.exe
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\bin\Debug\Song decoder.pdb
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\obj\Debug\Song decoder.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\obj\Debug\Song decoder.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\obj\Debug\Song decoder.exe
+C:\Users\Владимир\source\repos\Song decoder\Song decoder\obj\Debug\Song decoder.pdb
