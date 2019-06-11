@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\bin\Debug\Sort the odd.exe.config
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\bin\Debug\Sort the odd.exe
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\bin\Debug\Sort the odd.pdb
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\obj\Debug\Sort the odd.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\obj\Debug\Sort the odd.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\obj\Debug\Sort the odd.exe
+C:\Users\Владимир\source\repos\Sort the odd\Sort the odd\obj\Debug\Sort the odd.pdb
