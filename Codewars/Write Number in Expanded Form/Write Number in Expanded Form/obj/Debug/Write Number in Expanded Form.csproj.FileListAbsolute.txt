@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\bin\Debug\Write Number in Expanded Form.exe.config
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\bin\Debug\Write Number in Expanded Form.exe
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\bin\Debug\Write Number in Expanded Form.pdb
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\obj\Debug\Write Number in Expanded Form.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\obj\Debug\Write Number in Expanded Form.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\obj\Debug\Write Number in Expanded Form.exe
+C:\Users\Владимир\source\repos\Write Number in Expanded Form\Write Number in Expanded Form\obj\Debug\Write Number in Expanded Form.pdb
