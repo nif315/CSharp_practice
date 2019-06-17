@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\bin\Debug\Counting Duplicates.exe.config
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\bin\Debug\Counting Duplicates.exe
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\bin\Debug\Counting Duplicates.pdb
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\obj\Debug\Counting Duplicates.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\obj\Debug\Counting Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\obj\Debug\Counting Duplicates.exe
+C:\Users\Владимир\source\repos\Counting Duplicates\Counting Duplicates\obj\Debug\Counting Duplicates.pdb
