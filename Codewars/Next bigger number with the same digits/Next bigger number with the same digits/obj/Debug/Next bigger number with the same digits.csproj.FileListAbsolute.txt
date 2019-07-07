@@ -5,3 +5,10 @@ C:\Users\Владимир\source\repos\Next bigger number with the same digits\N
 C:\Users\Владимир\source\repos\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.csproj.CoreCompileInputs.cache
 C:\Users\Владимир\source\repos\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.exe
 C:\Users\Владимир\source\repos\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.pdb
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\bin\Debug\Next bigger number with the same digits.exe.config
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\bin\Debug\Next bigger number with the same digits.exe
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\bin\Debug\Next bigger number with the same digits.pdb
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.csprojAssemblyReference.cache
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.csproj.CoreCompileInputs.cache
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.exe
+E:\Src\C#\CSharp_practice\Codewars\Next bigger number with the same digits\Next bigger number with the same digits\obj\Debug\Next bigger number with the same digits.pdb

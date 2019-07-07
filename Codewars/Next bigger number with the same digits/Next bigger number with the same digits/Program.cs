@@ -24,24 +24,29 @@ namespace Next_bigger_number_with_the_same_digits
                 }
             }
 
+            // if we are unable to find the pivot, skip
+            if (pivot == -1)
+                return -1;
+
+            //splice the digits in the pivot and get the right side
+            var right = n.ToString().Substring(pivot);
+
             //find the smallest number to the right of pivot
-            List<int> right = new List<int>();
-            for (int i = pivot; i < combo.Length; i++)
+            //Converting to int, because .min() method returns in ASCII format
+            int min = Convert.ToInt32(Convert.ToString(n.ToString().Substring(pivot + 1).Min()));
+
+            char swap;
+            for (int i = 0; i < right.Length; i++)
             {
-                right.Add(combo[i]);
-            }
-            //List<int> right = n.ToString().ToList(combo.Length - pivot, combo.Length - pivot);
-            int min = right.Min();
-            Console.WriteLine(min);
-            /*for (int i = 0; i < combo.Length; i++)
-            {
-                if (combo.Length = 1 || )
+                if (right[i] == min)
                 {
-                    return -1;
+                    swap = right[0];
+                    right[0] = Convert.ToChar(min);
+                    right[i] = swap;
+
                 }
-            }*/
+            }
             return n;
-            //code me
         }
 
         static void Main(string[] args)
