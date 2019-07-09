@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\obj\Debug\First Variation on Caesar Cipher.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\obj\Debug\First Variation on Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\bin\Debug\First Variation on Caesar Cipher.exe.config
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\bin\Debug\First Variation on Caesar Cipher.exe
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\bin\Debug\First Variation on Caesar Cipher.pdb
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\obj\Debug\First Variation on Caesar Cipher.exe
+C:\Users\Владимир\source\repos\First Variation on Caesar Cipher\First Variation on Caesar Cipher\obj\Debug\First Variation on Caesar Cipher.pdb
