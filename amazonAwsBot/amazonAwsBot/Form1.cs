@@ -44,21 +44,7 @@ namespace amazonAwsBot
 
             try
             {
-                IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
-                checkbox.Click();
-
-                IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
-                EC2Actions.Click();
-
-                IWebElement instances = driver.FindElement(By.Id(instanceStateID));
-                Actions hover = new Actions(driver);
-                hover.MoveToElement(instances).Perform();
-
-                IWebElement start = driver.FindElement(By.Id(startID));
-                start.Click();
-
-                IWebElement yesStart = driver.FindElement(By.Id(yesStartID));
-                start.Click();
+                startInstances();
             }
             catch(OpenQA.Selenium.NoSuchElementException)
             {
@@ -72,26 +58,50 @@ namespace amazonAwsBot
 
             try
             {
-                IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
-                checkbox.Click();
-
-                IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
-                EC2Actions.Click();
-
-                IWebElement instances = driver.FindElement(By.Id(instanceStateID));
-                Actions hover = new Actions(driver);
-                hover.MoveToElement(instances).Perform();
-
-                IWebElement stopButton = driver.FindElement(By.Id(stopID));
-                stopButton.Click();
-
-                IWebElement yesStop = driver.FindElement(By.Id(yesStopID));
-                yesStop.Click();
+                shutdownInstances();
             }
             catch (OpenQA.Selenium.NoSuchElementException)
             {
                 MetroFramework.MetroMessageBox.Show(this, "Log in to continue, or EC2 instances are already shut down", "OK");
             }
+        }
+
+        private void startInstances()
+        {
+            IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
+            checkbox.Click();
+
+            IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
+            EC2Actions.Click();
+
+            IWebElement instances = driver.FindElement(By.Id(instanceStateID));
+            Actions hover = new Actions(driver);
+            hover.MoveToElement(instances).Perform();
+
+            IWebElement start = driver.FindElement(By.Id(startID));
+            start.Click();
+
+            IWebElement yesStart = driver.FindElement(By.Id(yesStartID));
+            start.Click();
+        }
+
+        private void shutdownInstances()
+        {
+            IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
+            checkbox.Click();
+
+            IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
+            EC2Actions.Click();
+
+            IWebElement instances = driver.FindElement(By.Id(instanceStateID));
+            Actions hover = new Actions(driver);
+            hover.MoveToElement(instances).Perform();
+
+            IWebElement stopButton = driver.FindElement(By.Id(stopID));
+            stopButton.Click();
+
+            IWebElement yesStop = driver.FindElement(By.Id(yesStopID));
+            yesStop.Click();
         }
     }
 }
