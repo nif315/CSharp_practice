@@ -21,7 +21,6 @@ namespace amazonAwsBot
         string urlIreland = "https://eu-west-1.console.aws.amazon.com/ec2/v2/home?region=eu-west-1#Instances:sort=instanceId";
         string urlFrankfurt = "https://eu-central-1.console.aws.amazon.com/ec2/v2/home?region=eu-central-1#Instances:sort=instanceId";
 
-        string navBarID = "nav-regionMenu";
         string checkboxXpath = "//*[@id=\"gwt-debug-gridTable\"]/div[1]/div[3]/table/thead/tr/th[1]/div/div[1]/div/label/span/span";
         string actionsID = "gwt-debug-menuButton";
         string instanceStateID = "gwt-debug-menu-instance-state";
@@ -71,7 +70,7 @@ namespace amazonAwsBot
             }
             catch (OpenQA.Selenium.NoSuchElementException)
             {
-                MetroFramework.MetroMessageBox.Show(this, "Log in to continue, or EC2 instances are already shut down", "OK");
+                MetroFramework.MetroMessageBox.Show(this, "Log in to continue, or EC2 instances were already shut down", "OK");
             }
 
             buttonShutDownClicked = false;
@@ -79,40 +78,54 @@ namespace amazonAwsBot
 
         private void startInstances()
         {
-            IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
-            checkbox.Click();
+            try
+            {
+                IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
+                checkbox.Click();
 
-            IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
-            EC2Actions.Click();
+                IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
+                EC2Actions.Click();
 
-            IWebElement instances = driver.FindElement(By.Id(instanceStateID));
-            Actions hover = new Actions(driver);
-            hover.MoveToElement(instances).Perform();
+                IWebElement instances = driver.FindElement(By.Id(instanceStateID));
+                Actions hover = new Actions(driver);
+                hover.MoveToElement(instances).Perform();
 
-            IWebElement start = driver.FindElement(By.Id(startID));
-            start.Click();
+                IWebElement start = driver.FindElement(By.Id(startID));
+                start.Click();
 
-            IWebElement yesStart = driver.FindElement(By.Id(yesStartID));
-            yesStart.Click();
+                IWebElement yesStart = driver.FindElement(By.Id(yesStartID));
+                yesStart.Click();
+            }
+            catch(OpenQA.Selenium.ElementNotInteractableException)
+            {
+                MetroFramework.MetroMessageBox.Show(this, "There are no instances in chosen region", "OK");
+            }
         }
 
         private void shutdownInstances()
         {
-            IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
-            checkbox.Click();
+            try
+            {
+                IWebElement checkbox = driver.FindElement(By.XPath(checkboxXpath));
+                checkbox.Click();
 
-            IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
-            EC2Actions.Click();
+                IWebElement EC2Actions = driver.FindElement(By.Id(actionsID));
+                EC2Actions.Click();
 
-            IWebElement instances = driver.FindElement(By.Id(instanceStateID));
-            Actions hover = new Actions(driver);
-            hover.MoveToElement(instances).Perform();
+                IWebElement instances = driver.FindElement(By.Id(instanceStateID));
+                Actions hover = new Actions(driver);
+                hover.MoveToElement(instances).Perform();
 
-            IWebElement stopButton = driver.FindElement(By.Id(stopID));
-            stopButton.Click();
+                IWebElement stopButton = driver.FindElement(By.Id(stopID));
+                stopButton.Click();
 
-            IWebElement yesStop = driver.FindElement(By.Id(yesStopID));
-            yesStop.Click();
+                IWebElement yesStop = driver.FindElement(By.Id(yesStopID));
+                yesStop.Click();
+            }
+            catch (OpenQA.Selenium.ElementNotInteractableException)
+            {
+                MetroFramework.MetroMessageBox.Show(this, "There are no instances in chosen region", "OK");
+            }
         }
 
         private void buttonStates()
