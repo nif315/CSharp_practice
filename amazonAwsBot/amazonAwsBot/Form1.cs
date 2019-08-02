@@ -82,7 +82,7 @@ namespace amazonAwsBot
             start.Click();
 
             IWebElement yesStart = driver.FindElement(By.Id(yesStartID));
-            start.Click();
+            yesStart.Click();
         }
 
         private void shutdownInstances()
