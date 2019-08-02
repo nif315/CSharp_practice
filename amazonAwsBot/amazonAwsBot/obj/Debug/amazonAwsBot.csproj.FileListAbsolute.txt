@@ -33,3 +33,4 @@ C:\Workspace\CSharpPractice\CSharp_practice\amazonAwsBot\amazonAwsBot\obj\Debug\
 C:\Workspace\CSharpPractice\CSharp_practice\amazonAwsBot\amazonAwsBot\obj\Debug\amazonAwsBot.csproj.CopyComplete
 C:\Workspace\CSharpPractice\CSharp_practice\amazonAwsBot\amazonAwsBot\obj\Debug\amazonAwsBot.exe
 C:\Workspace\CSharpPractice\CSharp_practice\amazonAwsBot\amazonAwsBot\obj\Debug\amazonAwsBot.pdb
+C:\Workspace\CSharpPractice\CSharp_practice\amazonAwsBot\amazonAwsBot\obj\Debug\amazonAwsBot.csprojAssemblyReference.cache

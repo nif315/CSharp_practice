@@ -40,11 +40,11 @@
             // startEC2
             // 
             this.startEC2.ActiveControl = null;
-            this.startEC2.Location = new System.Drawing.Point(131, 126);
+            this.startEC2.Location = new System.Drawing.Point(131, 61);
             this.startEC2.Name = "startEC2";
             this.startEC2.Size = new System.Drawing.Size(141, 40);
             this.startEC2.TabIndex = 2;
-            this.startEC2.Text = "on";
+            this.startEC2.Text = "Start instances";
             this.startEC2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.startEC2.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.startEC2.UseSelectable = true;
@@ -53,11 +53,11 @@
             // shutdownEC2
             // 
             this.shutdownEC2.ActiveControl = null;
-            this.shutdownEC2.Location = new System.Drawing.Point(131, 64);
+            this.shutdownEC2.Location = new System.Drawing.Point(131, 126);
             this.shutdownEC2.Name = "shutdownEC2";
             this.shutdownEC2.Size = new System.Drawing.Size(141, 40);
             this.shutdownEC2.TabIndex = 3;
-            this.shutdownEC2.Text = "off";
+            this.shutdownEC2.Text = "Shutdown instances";
             this.shutdownEC2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.shutdownEC2.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.shutdownEC2.UseSelectable = true;

@@ -15,7 +15,11 @@ namespace amazonAwsBot
 {
     public partial class controlPanel : MetroFramework.Forms.MetroForm
     {
-        string url = "https://eu-north-1.console.aws.amazon.com/ec2/v2/home?region=eu-north-1#Instances:sort=instanceId";
+        string urlSweden = "https://eu-north-1.console.aws.amazon.com/ec2/v2/home?region=eu-north-1#Instances:sort=instanceId";
+        string urlParis = "https://eu-west-3.console.aws.amazon.com/ec2/v2/home?region=eu-west-3#Instances:sort=instanceId";
+        string urlLondon = "https://eu-west-2.console.aws.amazon.com/ec2/v2/home?region=eu-west-2#Instances:sort=instanceId";
+        string urlIreland = "https://eu-west-1.console.aws.amazon.com/ec2/v2/home?region=eu-west-1#Instances:sort=instanceId";
+        string urlFrankfurt = "https://eu-central-1.console.aws.amazon.com/ec2/v2/home?region=eu-central-1#Instances:sort=instanceId";
 
         string navBarID = "nav-regionMenu";
         string checkboxXpath = "//*[@id=\"gwt-debug-gridTable\"]/div[1]/div[3]/table/thead/tr/th[1]/div/div[1]/div/label/span/span";
@@ -25,6 +29,9 @@ namespace amazonAwsBot
         string yesStopID = "ActionDialogSubmitButtonId";
         string startID = "gwt-debug-action-start-instances";
         string yesStartID = "gwt-debug-dialogBoxSubmitButton-button";
+
+        private bool buttonRunClicked = false;
+        private bool buttonShutDownClicked = false;
 
         IWebDriver driver = new ChromeDriver();
 
@@ -40,30 +47,34 @@ namespace amazonAwsBot
 
         private void startEC2_Click(object sender, EventArgs e)
         {
-            driver.Navigate().GoToUrl(url);
+            buttonRunClicked = true;
 
             try
             {
-                startInstances();
+                instancesActions();
             }
-            catch(OpenQA.Selenium.NoSuchElementException)
+            catch (OpenQA.Selenium.NoSuchElementException)
             {
                 MetroFramework.MetroMessageBox.Show(this, "Log in to continue, or EC2 instances are already running", "OK");
             }
+
+            buttonRunClicked = false;
         }
 
         private void shutdownEC2_Click(object sender, EventArgs e)
         {
-            driver.Navigate().GoToUrl(url);
+            buttonShutDownClicked = true;
 
             try
             {
-                shutdownInstances();
+                instancesActions();
             }
             catch (OpenQA.Selenium.NoSuchElementException)
             {
                 MetroFramework.MetroMessageBox.Show(this, "Log in to continue, or EC2 instances are already shut down", "OK");
             }
+
+            buttonShutDownClicked = false;
         }
 
         private void startInstances()
@@ -102,6 +113,48 @@ namespace amazonAwsBot
 
             IWebElement yesStop = driver.FindElement(By.Id(yesStopID));
             yesStop.Click();
+        }
+
+        private void buttonStates()
+        {
+            if (buttonRunClicked)
+                startInstances();
+
+            if (buttonShutDownClicked)
+                shutdownInstances();
+        }
+
+        private void instancesActions()
+        {
+            if (checkboxSweden.Checked)
+            {
+                driver.Navigate().GoToUrl(urlSweden);
+                buttonStates();
+            }
+
+            if (checkboxParis.Checked)
+            {
+                driver.Navigate().GoToUrl(urlParis);
+                buttonStates();
+            }
+
+            if (checkboxLondon.Checked)
+            {
+                driver.Navigate().GoToUrl(urlLondon);
+                buttonStates();
+            }
+
+            if (checkboxIreland.Checked)
+            {
+                driver.Navigate().GoToUrl(urlIreland);
+                buttonStates();
+            }
+
+            if (checkboxFrankfurt.Checked)
+            {
+                driver.Navigate().GoToUrl(urlFrankfurt);
+                buttonStates();
+            }
         }
     }
 }
