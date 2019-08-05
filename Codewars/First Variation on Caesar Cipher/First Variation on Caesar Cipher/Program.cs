@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text.RegularExpressions;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace First_Variation_on_Caesar_Cipher
 {
@@ -41,12 +37,13 @@ namespace First_Variation_on_Caesar_Cipher
             return str;
         }
 
-        public static string demovingShift(List<string> s, int shift)
+        //public static string demovingShift(List<string> s, int shift)
+        public static string demovingShift(string s, int shift)
         {
             //the same as with movingShift but demoving shift
             var temp = 0;
-            List<string> str = s.ToList();
-            char[] charArray = str.ToString().ToCharArray();
+            // List<string> str = s.ToList();
+            char[] charArray = s.ToString().ToCharArray();
             for (int i = 0; i < charArray.Length; i++)
             {
                 if (shift >= 26)
@@ -61,8 +58,8 @@ namespace First_Variation_on_Caesar_Cipher
                 if (char.IsLetter(charArray[i]))
                 {
                     temp = Convert.ToInt32(charArray[i]) - shift;
-                    if (temp >= 123 && Convert.ToInt32(charArray[i]) > 97 || temp >= 91 && Convert.ToInt32(charArray[i]) <= 90)
-                        temp = temp - 26;
+                    if (temp <= 64 || temp <= 96 && Convert.ToInt32(charArray[i]) > 96)
+                        temp = temp + 26;
                     charArray[i] = Convert.ToChar(temp);
                     shift++;
                 }
@@ -72,8 +69,7 @@ namespace First_Variation_on_Caesar_Cipher
             {
                 demoved.Add(charArray[i].ToString());
             }
-            string result = demoved.ToString();
-            Console.WriteLine(result);
+            string result = string.Join("", demoved.ToArray());
             return result;
         }
 
@@ -84,7 +80,7 @@ namespace First_Variation_on_Caesar_Cipher
             Console.WriteLine("Input, how many shifts to perform");
             int shift = int.Parse(Console.ReadLine());
             Console.WriteLine("Shifted string: " + string.Join("", movingShift(s, shift)));
-            //Console.WriteLine("Demived shifting: " + demovingShift(s.ToList(), shift));
+            Console.WriteLine("Demoved shifting: " + string.Join("", demovingShift(s, shift)));
             Console.ReadLine();
         }
     }
