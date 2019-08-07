@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\bin\Debug\Human readable duration format.exe.config
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\bin\Debug\Human readable duration format.exe
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\bin\Debug\Human readable duration format.pdb
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\obj\Debug\Human readable duration format.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\obj\Debug\Human readable duration format.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\obj\Debug\Human readable duration format.exe
+C:\Users\Владимир\source\repos\Human readable duration format\Human readable duration format\obj\Debug\Human readable duration format.pdb
