@@ -1,0 +1,7 @@
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\bin\Debug\valid parentheses.exe.config
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\bin\Debug\valid parentheses.exe
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\bin\Debug\valid parentheses.pdb
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\obj\Debug\valid parentheses.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\obj\Debug\valid parentheses.csproj.CoreCompileInputs.cache
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\obj\Debug\valid parentheses.exe
+C:\Users\nif31\source\repos\valid parentheses\valid parentheses\obj\Debug\valid parentheses.pdb
