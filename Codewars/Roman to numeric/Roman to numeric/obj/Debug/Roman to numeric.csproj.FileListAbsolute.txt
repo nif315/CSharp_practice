@@ -1,0 +1,7 @@
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\bin\Debug\Roman to numeric.exe.config
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\bin\Debug\Roman to numeric.exe
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\bin\Debug\Roman to numeric.pdb
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\obj\Debug\Roman to numeric.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\obj\Debug\Roman to numeric.csproj.CoreCompileInputs.cache
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\obj\Debug\Roman to numeric.exe
+C:\Users\nif31\source\repos\Roman to numeric\Roman to numeric\obj\Debug\Roman to numeric.pdb
