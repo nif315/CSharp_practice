@@ -1,0 +1,6 @@
+C:\Users\nif31\source\repos\Human Readable Time\Human Readable Time\bin\Debug\Human Readable Time.exe.config
+C:\Users\nif31\source\repos\Human Readable Time\Human Readable Time\bin\Debug\Human Readable Time.exe
+C:\Users\nif31\source\repos\Human Readable Time\Human Readable Time\bin\Debug\Human Readable Time.pdb
+C:\Users\nif31\source\repos\Human Readable Time\Human Readable Time\obj\Debug\Human Readable Time.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Human Readable Time\Human Readable Time\obj\Debug\Human Readable Time.exe
+C:\Users\nif31\source\repos\Human Readable Time\Human Readable Time\obj\Debug\Human Readable Time.pdb
