@@ -2,7 +2,6 @@ In this repository you may find all my C# tasks and challenges that I've been ex
 Use "Branches" tab to view everything that I've commited
 
 Here are some links, so you can navigate more easily:
-[link to Google](https://www.google.com)
-1. <link href = "https://github.com/volodya315/CSharp_practice/tree/Codewars"> Codewars C# katas </link>
-2. <link href = "https://github.com/volodya315/CSharp_practice/tree/JSON_to_XML_parser"> JSON to XML parser </link>
-3. <link href = "https://github.com/volodya315/CSharp_practice/tree/AWS_start_and_shutdown_bot"> Simple bot that starts and shuts down Amazon virtual machines </link>
+1. [Codewars C# katas](https://github.com/volodya315/CSharp_practice/tree/Codewars)
+2. [JSON to XML parser](https://github.com/volodya315/CSharp_practice/tree/JSON_to_XML_parser)
+3. [Simple bot that starts and shuts down Amazon virtual machines](https://github.com/volodya315/CSharp_practice/tree/AWS_start_and_shutdown_bot)
