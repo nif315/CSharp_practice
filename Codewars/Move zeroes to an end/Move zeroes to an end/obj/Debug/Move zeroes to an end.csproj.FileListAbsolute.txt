@@ -1,0 +1,7 @@
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\bin\Debug\Move zeroes to an end.exe.config
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\bin\Debug\Move zeroes to an end.exe
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\bin\Debug\Move zeroes to an end.pdb
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\obj\Debug\Move zeroes to an end.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\obj\Debug\Move zeroes to an end.csproj.CoreCompileInputs.cache
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\obj\Debug\Move zeroes to an end.exe
+C:\Users\nif31\source\repos\Move zeroes to an end\Move zeroes to an end\obj\Debug\Move zeroes to an end.pdb

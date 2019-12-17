@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\bin\Debug\Base64 Encoding.exe.config
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\bin\Debug\Base64 Encoding.exe
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\bin\Debug\Base64 Encoding.pdb
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\obj\Debug\Base64 Encoding.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\obj\Debug\Base64 Encoding.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\obj\Debug\Base64 Encoding.exe
+C:\Users\Владимир\source\repos\Base64 Encoding\Base64 Encoding\obj\Debug\Base64 Encoding.pdb

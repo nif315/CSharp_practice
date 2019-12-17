@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\obj\Debug\The Coupon Code.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\obj\Debug\The Coupon Code.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\bin\Debug\The Coupon Code.exe.config
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\bin\Debug\The Coupon Code.exe
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\bin\Debug\The Coupon Code.pdb
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\obj\Debug\The Coupon Code.exe
+C:\Users\Владимир\source\repos\The Coupon Code\The Coupon Code\obj\Debug\The Coupon Code.pdb

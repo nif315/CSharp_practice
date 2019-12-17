@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\bin\Debug\Driving Licence.exe.config
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\bin\Debug\Driving Licence.exe
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\bin\Debug\Driving Licence.pdb
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\obj\Debug\Driving Licence.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\obj\Debug\Driving Licence.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\obj\Debug\Driving Licence.exe
+C:\Users\Владимир\source\repos\Driving Licence\Driving Licence\obj\Debug\Driving Licence.pdb

@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\bin\Debug\Sum Strings as Numbers.exe.config
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\bin\Debug\Sum Strings as Numbers.exe
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\bin\Debug\Sum Strings as Numbers.pdb
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\obj\Debug\Sum Strings as Numbers.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\obj\Debug\Sum Strings as Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\obj\Debug\Sum Strings as Numbers.exe
+C:\Users\Владимир\source\repos\Sum Strings as Numbers\Sum Strings as Numbers\obj\Debug\Sum Strings as Numbers.pdb

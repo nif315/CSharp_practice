@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\obj\Debug\Maximum subarray sum.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\obj\Debug\Maximum subarray sum.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\bin\Debug\Maximum subarray sum.exe.config
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\bin\Debug\Maximum subarray sum.exe
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\bin\Debug\Maximum subarray sum.pdb
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\obj\Debug\Maximum subarray sum.exe
+C:\Users\Владимир\source\repos\Maximum subarray sum\Maximum subarray sum\obj\Debug\Maximum subarray sum.pdb

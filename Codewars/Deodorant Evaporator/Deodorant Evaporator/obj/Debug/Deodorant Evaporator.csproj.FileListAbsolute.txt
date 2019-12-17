@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\bin\Debug\Deodorant Evaporator.exe.config
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\bin\Debug\Deodorant Evaporator.exe
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\bin\Debug\Deodorant Evaporator.pdb
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\obj\Debug\Deodorant Evaporator.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\obj\Debug\Deodorant Evaporator.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\obj\Debug\Deodorant Evaporator.exe
+C:\Users\Владимир\source\repos\Deodorant Evaporator\Deodorant Evaporator\obj\Debug\Deodorant Evaporator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\bin\Debug\Is this a triangle.exe.config
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\bin\Debug\Is this a triangle.exe
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\bin\Debug\Is this a triangle.pdb
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\obj\Debug\Is this a triangle.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\obj\Debug\Is this a triangle.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\obj\Debug\Is this a triangle.exe
+C:\Users\Владимир\source\repos\Is this a triangle\Is this a triangle\obj\Debug\Is this a triangle.pdb

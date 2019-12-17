@@ -1,0 +1,6 @@
+C:\Users\nif31\source\repos\Scramblies\Scramblies\bin\Debug\Scramblies.exe.config
+C:\Users\nif31\source\repos\Scramblies\Scramblies\bin\Debug\Scramblies.exe
+C:\Users\nif31\source\repos\Scramblies\Scramblies\bin\Debug\Scramblies.pdb
+C:\Users\nif31\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.exe
+C:\Users\nif31\source\repos\Scramblies\Scramblies\obj\Debug\Scramblies.pdb

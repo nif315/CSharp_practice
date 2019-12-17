@@ -1,0 +1,6 @@
+C:\Users\nif31\source\repos\Strings mix\Strings mix\bin\Debug\Strings mix.exe.config
+C:\Users\nif31\source\repos\Strings mix\Strings mix\bin\Debug\Strings mix.exe
+C:\Users\nif31\source\repos\Strings mix\Strings mix\bin\Debug\Strings mix.pdb
+C:\Users\nif31\source\repos\Strings mix\Strings mix\obj\Debug\Strings mix.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Strings mix\Strings mix\obj\Debug\Strings mix.exe
+C:\Users\nif31\source\repos\Strings mix\Strings mix\obj\Debug\Strings mix.pdb

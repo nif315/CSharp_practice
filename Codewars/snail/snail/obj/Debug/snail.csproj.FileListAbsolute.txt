@@ -1,0 +1,7 @@
+C:\Users\nif31\source\repos\snail\snail\bin\Debug\snail.exe.config
+C:\Users\nif31\source\repos\snail\snail\bin\Debug\snail.exe
+C:\Users\nif31\source\repos\snail\snail\bin\Debug\snail.pdb
+C:\Users\nif31\source\repos\snail\snail\obj\Debug\snail.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\snail\snail\obj\Debug\snail.csproj.CoreCompileInputs.cache
+C:\Users\nif31\source\repos\snail\snail\obj\Debug\snail.exe
+C:\Users\nif31\source\repos\snail\snail\obj\Debug\snail.pdb

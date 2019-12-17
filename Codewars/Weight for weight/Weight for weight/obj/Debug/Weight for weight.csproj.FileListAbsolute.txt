@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\bin\Debug\Weight for weight.exe.config
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\bin\Debug\Weight for weight.exe
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\bin\Debug\Weight for weight.pdb
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\obj\Debug\Weight for weight.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\obj\Debug\Weight for weight.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\obj\Debug\Weight for weight.exe
+C:\Users\Владимир\source\repos\Weight for weight\Weight for weight\obj\Debug\Weight for weight.pdb

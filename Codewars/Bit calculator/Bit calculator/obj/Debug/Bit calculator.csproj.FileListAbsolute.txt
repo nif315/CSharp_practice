@@ -1,0 +1,7 @@
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\bin\Debug\Bit calculator.exe.config
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\bin\Debug\Bit calculator.exe
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\bin\Debug\Bit calculator.pdb
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\obj\Debug\Bit calculator.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\obj\Debug\Bit calculator.csproj.CoreCompileInputs.cache
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\obj\Debug\Bit calculator.exe
+C:\Users\nif31\source\repos\Bit calculator\Bit calculator\obj\Debug\Bit calculator.pdb

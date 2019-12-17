@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Владимир\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Workspace\CSharpPractice\CSharp_practice\Codewars\Directions reduction\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
