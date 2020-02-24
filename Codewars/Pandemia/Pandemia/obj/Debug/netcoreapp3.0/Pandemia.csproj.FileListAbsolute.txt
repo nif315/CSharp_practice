@@ -1,0 +1,11 @@
+C:\Users\nif31\source\repos\Pandemia\Pandemia\bin\Debug\netcoreapp3.0\Pandemia.exe
+C:\Users\nif31\source\repos\Pandemia\Pandemia\bin\Debug\netcoreapp3.0\Pandemia.deps.json
+C:\Users\nif31\source\repos\Pandemia\Pandemia\bin\Debug\netcoreapp3.0\Pandemia.runtimeconfig.json
+C:\Users\nif31\source\repos\Pandemia\Pandemia\bin\Debug\netcoreapp3.0\Pandemia.runtimeconfig.dev.json
+C:\Users\nif31\source\repos\Pandemia\Pandemia\bin\Debug\netcoreapp3.0\Pandemia.dll
+C:\Users\nif31\source\repos\Pandemia\Pandemia\bin\Debug\netcoreapp3.0\Pandemia.pdb
+C:\Users\nif31\source\repos\Pandemia\Pandemia\obj\Debug\netcoreapp3.0\Pandemia.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Pandemia\Pandemia\obj\Debug\netcoreapp3.0\Pandemia.AssemblyInfoInputs.cache
+C:\Users\nif31\source\repos\Pandemia\Pandemia\obj\Debug\netcoreapp3.0\Pandemia.AssemblyInfo.cs
+C:\Users\nif31\source\repos\Pandemia\Pandemia\obj\Debug\netcoreapp3.0\Pandemia.dll
+C:\Users\nif31\source\repos\Pandemia\Pandemia\obj\Debug\netcoreapp3.0\Pandemia.pdb

@@ -1,0 +1,6 @@
+C:\Users\nif31\source\repos\Find the odd int\Find the odd int\bin\Debug\Find the odd int.exe.config
+C:\Users\nif31\source\repos\Find the odd int\Find the odd int\bin\Debug\Find the odd int.exe
+C:\Users\nif31\source\repos\Find the odd int\Find the odd int\bin\Debug\Find the odd int.pdb
+C:\Users\nif31\source\repos\Find the odd int\Find the odd int\obj\Debug\Find the odd int.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Find the odd int\Find the odd int\obj\Debug\Find the odd int.exe
+C:\Users\nif31\source\repos\Find the odd int\Find the odd int\obj\Debug\Find the odd int.pdb

@@ -1,0 +1,6 @@
+C:\Users\nif31\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\bin\Debug\Number of trailing zeros of N!.exe.config
+C:\Users\nif31\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\bin\Debug\Number of trailing zeros of N!.exe
+C:\Users\nif31\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\bin\Debug\Number of trailing zeros of N!.pdb
+C:\Users\nif31\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.exe
+C:\Users\nif31\source\repos\Number of trailing zeros of N!\Number of trailing zeros of N!\obj\Debug\Number of trailing zeros of N!.pdb
