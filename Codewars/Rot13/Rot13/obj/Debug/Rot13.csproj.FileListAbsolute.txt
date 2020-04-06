@@ -1,0 +1,6 @@
+C:\Users\nif31\source\repos\Rot13\Rot13\bin\Debug\Rot13.exe.config
+C:\Users\nif31\source\repos\Rot13\Rot13\bin\Debug\Rot13.exe
+C:\Users\nif31\source\repos\Rot13\Rot13\bin\Debug\Rot13.pdb
+C:\Users\nif31\source\repos\Rot13\Rot13\obj\Debug\Rot13.csprojAssemblyReference.cache
+C:\Users\nif31\source\repos\Rot13\Rot13\obj\Debug\Rot13.exe
+C:\Users\nif31\source\repos\Rot13\Rot13\obj\Debug\Rot13.pdb
