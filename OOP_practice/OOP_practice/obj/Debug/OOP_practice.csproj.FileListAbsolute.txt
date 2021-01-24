@@ -1,0 +1,6 @@
+/Users/volodya315/Projects/OOP_practice/OOP_practice/bin/Debug/OOP_practice.exe
+/Users/volodya315/Projects/OOP_practice/OOP_practice/bin/Debug/OOP_practice.pdb
+/Users/volodya315/Projects/OOP_practice/OOP_practice/obj/Debug/OOP_practice.csprojAssemblyReference.cache
+/Users/volodya315/Projects/OOP_practice/OOP_practice/obj/Debug/OOP_practice.csproj.CoreCompileInputs.cache
+/Users/volodya315/Projects/OOP_practice/OOP_practice/obj/Debug/OOP_practice.exe
+/Users/volodya315/Projects/OOP_practice/OOP_practice/obj/Debug/OOP_practice.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_practice", "OOP_practice\OOP_practice.csproj", "{DD7BAFC2-3FA2-4B05-B063-A481487FF51B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7BAFC2-3FA2-4B05-B063-A481487FF51B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DD7BAFC2-3FA2-4B05-B063-A481487FF51B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DD7BAFC2-3FA2-4B05-B063-A481487FF51B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DD7BAFC2-3FA2-4B05-B063-A481487FF51B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
